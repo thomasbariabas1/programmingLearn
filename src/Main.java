@@ -15,7 +15,7 @@ public class Main {
 //			classe.addNumber(randomint);
 //		}
 		while(classe.getNumber()<100){
-			int randomint = r.nextInt(10);
+			int randomint = r.nextInt(20);
 
 			classe.addNumber(randomint);
 		}
